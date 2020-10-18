@@ -1,6 +1,14 @@
 # PSBulkOUImport
 PSBulkOUImport - PowerShell Bulk Organizational Unit Import
 
+<img alt="GitHub" src="https://img.shields.io/github/license/bvoris/PSBulkOUImport">
+<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/PSBulkOUImport">
+<img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/PSBulkOUImport/total">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/bvoris/PSBulkOUImport">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/bvoris/PSBulkOUImport">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/PSBulkOUImport">
+<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/PSBulkOUImport">
+
 ## Connect with me at
 
 <a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10% ALIGN=LEFT></a>
