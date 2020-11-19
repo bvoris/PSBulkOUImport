@@ -1,6 +1,5 @@
 # PSBulkOUImport
-PSBulkOUImport - PowerShell Bulk Organizational Unit Import
-
+PSBulkOUImport - PowerShell Bulk Organizational Unit Import<BR />
 <img alt="GitHub" src="https://img.shields.io/github/license/bvoris/PSBulkOUImport">
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/PSBulkOUImport">
 <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/PSBulkOUImport/total">
